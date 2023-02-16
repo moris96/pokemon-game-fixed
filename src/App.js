@@ -5,6 +5,8 @@ function App() {
     <div className="App">
       <h1>Hello Pokemon!</h1>
       <Canvas />
+      <script src="src/components/playerMobility.js"></script>
+
     </div>
   );
 }
